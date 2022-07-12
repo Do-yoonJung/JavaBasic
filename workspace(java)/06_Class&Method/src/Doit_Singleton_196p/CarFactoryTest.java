@@ -1,4 +1,4 @@
-package Doit_Singleton_196p;
+package doit_Singleton_196p;
 
 public class CarFactoryTest {
 	public static void main(String[] args) {

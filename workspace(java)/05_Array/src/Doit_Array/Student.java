@@ -1,4 +1,4 @@
-package Doit_Array;
+package doit_Array;
 
 public class Student {
 	public int studentId;

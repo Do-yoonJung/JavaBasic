@@ -1,4 +1,4 @@
-package Doit_197p_Quiz;
+package doit_197p_Quiz;
 
 public class CardTest {
 	public static void main(String[] args) {
